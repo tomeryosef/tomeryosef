@@ -1,13 +1,15 @@
-Hi there! I'm Tomer Yosef 👋
 
-I am a Full-Stack Developer with experience in web development, mobile development, and database technologies. I am highly motivated to learn and implement new technologies and possess excellent problem-solving and communication skills.
+<h1 align="center">Hi there! I'm Tomer Yosef 👋</h1>
 
+<h3 align="center">I am a Full-Stack Developer with experience in web development, mobile development, and database technologies. I am highly motivated to learn and implement new technologies and possess excellent problem-solving and communication skills.</h3>
 
-🔭 Current Job
+   <h3 align="left"> 🔭 Current Job</h3>
+
 
     Full-Stack Developer at Latwo (January 2023 - Present)
 
-💼 Work Experience
+
+   <h3 align="left"> 💼 Work Experience</h3>
 
     Freelance Web Developer (January 2016 - Present)
         Specialty in WordPress, Vbulletin, Xenforo, SharePoint Sites and addons development.
@@ -16,16 +18,19 @@ I am a Full-Stack Developer with experience in web development, mobile developme
         Optimized web application performance by creating efficient code structures with AJAX.
         Collaborated closely with clients to comprehend their needs, ensure timely delivery of projects while maintaining a high level of quality in my work.
 
-   🎓 Education
+  
+   <h3 align="left"> 🎓 Education</h3>
 
     2nd Year Computer science degree - Holon Institute of Technology (2022 - Present)
     Computer Department -Ort Lod High School (2012 - 2016)
 
-🏆 Awards
+
+<h3 align="left">🏆 Awards</h3>
 
     1st Place Bank Leumi Applications Contest 2016
+    
+<h3 align="left">🛠️ Skills</h3>
 
-🛠️ Skills
 
     Languages: Hebrew, English
     Programming languages: C, C#, C++, JavaScript, HTML, CSS, XML
@@ -35,8 +40,8 @@ I am a Full-Stack Developer with experience in web development, mobile developme
     Project Management
     Team collaboration
 
-📞 Contact
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">📞 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomer yosef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomer yosef" height="30" width="40" /></a>
 </p>
