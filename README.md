@@ -3,6 +3,11 @@
 
 <h3 align="center">I am a Full-Stack Developer with experience in web development, mobile development, and database technologies. I am highly motivated to learn and implement new technologies and possess excellent problem-solving and communication skills.</h3>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tomeryoef&label=Profile%20views&color=0e75b6&style=flat" alt="tomeryoef" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomeryoef" alt="tomeryoef" /></a> </p>
+
    <h3 align="left"> 🔭 Current Job</h3>
 
 
