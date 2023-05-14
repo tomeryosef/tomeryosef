@@ -1,6 +1,8 @@
 Hi there! I'm Tomer Yosef 👋
 
 I am a Full-Stack Developer with experience in web development, mobile development, and database technologies. I am highly motivated to learn and implement new technologies and possess excellent problem-solving and communication skills.
+
+
 🔭 Current Job
 
     Full-Stack Developer at Latwo (January 2023 - Present)
@@ -34,7 +36,9 @@ I am a Full-Stack Developer with experience in web development, mobile developme
     Team collaboration
 
 📞 Contact
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tomer yosef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomer yosef" height="30" width="40" /></a>
+</p>
 
-    LinkedIn: Tomer Yosef
     Website: Tomeryosef.com
-    Github: TomerYosef
