@@ -27,7 +27,7 @@
    <h3 align="left"> 🎓 Education</h3>
 
     2nd Year Computer science degree - Holon Institute of Technology (2022 - Present)
-    Computer Department -Ort Lod High School (2012 - 2016)
+    Computer Department -Ort High School (2012 - 2016)
 
 
 <h3 align="left">🏆 Awards</h3>
