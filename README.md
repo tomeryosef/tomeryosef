@@ -26,7 +26,7 @@
   
    <h3 align="left"> 🎓 Education</h3>
 
-    2nd Year Computer science degree - Holon Institute of Technology (2022 - Present)
+    3rd Year Computer science degree - Holon Institute of Technology (2022 - Present)
     Computer Department -Ort High School (2012 - 2016)
 
 
